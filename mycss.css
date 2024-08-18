@@ -1,0 +1,35 @@
+<style>
+
+.register-form h1 {
+    font-size: 42px;
+    text-transform: uppercase;
+    font-variant-caps: all-small-caps;
+    line-height:0;
+    align-content: top;
+
+}
+
+.register-form .form-control {
+    border: none;
+    background: none;
+    border-bottom: 1px solid #ffc107;
+    border-radius: 0px !important;
+    color: #fff;
+}
+
+.register-form .form-control:focus,
+.register-form .form-control:hover{
+  border:none;
+  margin: 0 auto;
+  background: none;
+  box-shadow: none;
+  border-bottom: 1px solid #fff;
+  color: #fff;
+}
+
+.register-form .stats>div{
+    font-variant-caps: all-small-caps;
+    font-size: 18px;
+}
+
+</style>
